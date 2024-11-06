@@ -16,7 +16,7 @@ s1.age=19.5;
 s1.gender='F';
 strcpy(s1.subject,"biotechnology");
 printf("\nRoll no: %d", s1.rollno);
-printf("\nName: %c", s1.name);
+printf("\nName: %s", s1.name);
 printf("\nAge: %f", s1.age);
 printf("\nGender: %c", s1.gender);
 printf("\nSubject: %s", s1.subject);
